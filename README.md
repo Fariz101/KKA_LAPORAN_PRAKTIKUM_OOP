@@ -2,7 +2,8 @@
 Tugas Analisis 1:
 • Apa yang terjadi jika kamu mengubah hero1.hp menjadi 500 setelah baris
 hero1 = Hero...? Coba lakukan print(hero1.hp).
-Jawaban: Hp dari hero1 akan berubah menjadi 500 dari sebelumnya yaitu 100
+Jawaban: <img width="564" height="95" alt="image" src="https://github.com/user-attachments/assets/a420fc97-ef85-44fa-bf81-a100e0eb8501" />
+Hp dari hero1 akan berubah menjadi 500 dari sebelumnya yaitu 100
 
 Tugas Analisis 2:
 • Perhatikan parameter lawan pada method serang. Parameter tersebut
@@ -14,7 +15,8 @@ Tugas Analisis 3:
 • Eksperimen Fungsi super(): Pada class Mage, coba hapus (atau jadikan
 komentar #) baris kode super().__init__(name, hp, attack_power). Kemudian
 jalankan programnya.
-Jawaban: Akan muncul error
+Jawaban: <img width="636" height="202" alt="image" src="https://github.com/user-attachments/assets/9e607002-c2ba-4079-9e17-42d7cb6ae06e" />
+Akan muncul error
 • Pertanyaan: Error apa yang muncul saat kamu mencoba melihat info Eudora
 (eudora.info())? Mengapa error tersebut mengatakan Mage object has no
 attribute 'name', padahal kita sudah mengirim nama "Eudora" saat
@@ -71,3 +73,6 @@ Pertanyaan: Apa yang terjadi?
 Mengapa dalam konsep Polimorfisme, nama method antara Parent Class dan
 berbagai Child Class harus persis sama?
 Jawaban: Program di class archer tidak dijalankan melainkan menjalankan program di method serang yang berada di class Hero. Dikarenakan kontrak antar class mengharuskan method yang ada di Child Class harus sama dengan yang ada di Parent Class supaya program bisa dijalankan.
+
+#Output Tugas Proyek Kelompok
+<img width="597" height="471" alt="image" src="https://github.com/user-attachments/assets/e28ab5af-9426-405b-87e0-2430c6ed829e" />
