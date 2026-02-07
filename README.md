@@ -74,5 +74,6 @@ Mengapa dalam konsep Polimorfisme, nama method antara Parent Class dan
 berbagai Child Class harus persis sama?
 Jawaban: Program di class archer tidak dijalankan melainkan menjalankan program di method serang yang berada di class Hero. Dikarenakan kontrak antar class mengharuskan method yang ada di Child Class harus sama dengan yang ada di Parent Class supaya program bisa dijalankan.
 
-#Output Tugas Proyek Kelompok
+# Output Tugas Proyek Kelompok
+
 <img width="597" height="471" alt="image" src="https://github.com/user-attachments/assets/e28ab5af-9426-405b-87e0-2430c6ed829e" />
